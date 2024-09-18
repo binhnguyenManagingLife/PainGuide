@@ -15,6 +15,6 @@ At the same time, it’s important to continue to do gentle activities even when
 Source: 
 Toronto Academic Pain Medicine Institute “Pain U Online”: https://tapmipain.ca/patient/managing-my-pain/pain-u-online/physical-activity.html
 ### Defintions
-                                                                                                                                                                             Chronic Pain: Chronic pain refers to pain that lasts longer than 3 months.
-                                                                                                                                                            Flare-up: The term flare-up refers to a sudden increase in the intensity of pain symptoms. 
+Chronic Pain: Chronic pain refers to pain that lasts longer than 3 months.
+Flare-up: The term flare-up refers to a sudden increase in the intensity of pain symptoms. 
 “Boom or bust” cycle: The “boom or bust” cycle refers to a repetitive pattern of activity levels often seen in people living with pain. On good days they try to do too much (boom), followed by bad days when they feel unable to do anything (bust). 
